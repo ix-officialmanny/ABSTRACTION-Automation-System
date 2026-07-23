@@ -32,6 +32,3 @@ that scenario using **abstraction** and **polymorphism**:
 2. Open the notebook or script file.
 3. Run all cells / execute the script to see each system's start, status, 
    and stop behaviour printed to the console.
-
-## Author
-Matthew Cobbinah (GitHub: MatthewCobbinah)
